@@ -1,9 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f27ebee-6dcc-44dc-b6bc-f988510aef7e" name="Changes" comment="initiate">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/.prettierignore" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/.vscode/extensions.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/extensions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/apps/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability-e2e/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability-e2e/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability-e2e/cypress.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability-e2e/cypress.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability-e2e/project.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability-e2e/project.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability-e2e/src/fixtures/example.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability-e2e/src/fixtures/example.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability-e2e/src/integration/app.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability-e2e/src/integration/app.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability-e2e/src/support/app.po.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability-e2e/src/support/app.po.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability-e2e/src/support/commands.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability-e2e/src/support/commands.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability-e2e/src/support/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability-e2e/src/support/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability-e2e/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability-e2e/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/.browserslistrc" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/.browserslistrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/jest.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/jest.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/project.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/project.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/src/app/app.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/src/app/app.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/src/app/nx-welcome.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/src/app/nx-welcome.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/src/assets/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/src/assets/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/src/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/src/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/src/test-setup.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/src/test-setup.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/tsconfig.editor.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/tsconfig.editor.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/apps/capability/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/capability/tsconfig.spec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/decorate-angular-cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/decorate-angular-cli.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/jest.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/jest.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/jest.preset.js" beforeDir="false" afterPath="$PROJECT_DIR$/jest.preset.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/libs/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/libs/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/nx.json" beforeDir="false" afterPath="$PROJECT_DIR$/nx.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/tools/generators/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/tools/generators/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/tools/tsconfig.tools.json" beforeDir="false" afterPath="$PROJECT_DIR$/tools/tsconfig.tools.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practise-frontend/tsconfig.base.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.base.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2T6bMMnLdPzdW2zTXFVelPyXbeY" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vemula/projects/self-projects/practise-ang&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/vemula/projects/self-projects/practise-ang/node_modules/prettier&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/practise-frontend" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f27ebee-6dcc-44dc-b6bc-f988510aef7e" name="Changes" comment="" />
+      <created>1690366428566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690366428566</updated>
+      <workItem from="1690366430305" duration="3681000" />
+      <workItem from="1690374839730" duration="616000" />
+    </task>
+    <task id="LOCAL-00001" summary="initiate">
+      <created>1690368195381</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690368195381</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initiate" />
+    <option name="LAST_COMMIT_MESSAGE" value="initiate" />
   </component>
 </project>
